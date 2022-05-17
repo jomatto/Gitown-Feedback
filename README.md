@@ -1,2 +1,2 @@
-# Git.me-Feedback
-Feedback for Git.me App
+# Gitown-Feedback
+Feedback for Gitown App
